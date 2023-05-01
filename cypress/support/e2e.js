@@ -17,6 +17,7 @@
 import './commands'
 import './User_Auth.action'
 import './Products.action'
+import './Checkout.action'
 
 
 // Alternatively you can use CommonJS syntax:

@@ -1,0 +1,25 @@
+{
+  "selectorsAndPrices": [
+    {
+      "selector": ".cart_price > p",
+      "prices": [
+        "Rs. 500",
+        "Rs. 400"
+      ]
+    },
+    {
+      "selector": ".cart_quantity > button",
+      "prices": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "selector": ".cart_total > p",
+      "prices": [
+        "Rs. 500",
+        "Rs. 400"
+      ]
+    }
+  ]
+}

@@ -27,7 +27,7 @@ describe('Verify that User is Authenticated', () => {
     cy.RegisterUser("k8vl8i@gmail.com");
     cy.get(".signup-form>form>p").should("have.text","Email Address already exist!");
   })
-  it.only('Contact Us Form',()=>{
+  it('Contact Us Form',()=>{
     cy.Contact_Us_Form();
   })
 })
